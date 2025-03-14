@@ -4,17 +4,23 @@ This repository serves as a central hub to track and register our efforts in ens
 
 ## Supported Formats
 
-### Germany: XRechnung
+### Germany: XRechnung (EN16931)
 
-We have developed an extension to support the XRechnung format required for e-invoicing in Germany. You can find the corresponding repository here:
+We have developed an extension to support **XRechnung**, Germany’s implementation of the **EN16931** e-invoicing standard. You can find the corresponding repository here:
 
 ➡️ [XRechnung](https://github.com/wpovernight/wpo-ips-xrechnung)
 
-### Italy: FatturaPA
+### Italy: FatturaPA (Under Development)
 
-To meet the e-invoicing requirements in Italy, we offer an extension for the FatturaPA format. You can find the corresponding repository here:
+We are actively working on an extension to support the **FatturaPA** format required for e-invoicing in Italy. You can track progress in the corresponding repository:
 
 ➡️ [FatturaPA](https://github.com/wpovernight/wpo-ips-fatturapa)
+
+### Romania: CIUS-RO (EN16931)
+
+To comply with Romania’s e-invoicing regulations, we offer an extension supporting **CIUS-RO**, the country’s implementation of the **EN16931 UBL Invoice** standard. You can find the corresponding repository here:
+
+➡️ [CIUS-RO](https://github.com/wpovernight/wpo-ips-cius-ro)
 
 ## About the Main Plugin
 
@@ -29,4 +35,3 @@ For more details about the main plugin, visit its repository:
 ---
 
 For questions or further information, feel free to reach out or open an issue in the respective repository.
-
